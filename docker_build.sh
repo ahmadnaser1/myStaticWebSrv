@@ -1,1 +1,1 @@
-sudo docker build -t myalpinehttpd 
+sudo docker build -t myalpinehttpd.
